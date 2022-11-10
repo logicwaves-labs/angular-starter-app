@@ -8,6 +8,9 @@
       "schematics": {},
       "root": "",
       "sourceRoot": "src",
+      "cli": {
+	    "analytics": false
+	  },
       "prefix": "app",
       "architect": {
         "build": {
