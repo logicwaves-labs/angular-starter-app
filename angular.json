@@ -67,7 +67,9 @@
               "browserTarget": "angular-starter-app:build:production"
             },
             "development": {
-              "browserTarget": "angular-starter-app:build:development"
+              "browserTarget": "angular-starter-app:build:development",
+               "host": "0.0.0.0",
+               "disableHostCheck": true
             }
           },
           "defaultConfiguration": "development"
